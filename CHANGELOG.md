@@ -9,6 +9,9 @@
 > - [Polish]
 
 **Note**: Gaps between patch versions are faulty/broken releases.
+## 0.7.3
+- **Bug Fix**
+    - Upgrading Swhitcj propps according to react-native 0.62 docs https://reactnative.dev/docs/0.62/switch
 ## 0.7.2
 - **Bug Fix**
     - Upgrading for usage with react-native^0.62* 
