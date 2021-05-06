@@ -17,10 +17,12 @@
     "url": "https://github.com/gcanti/tcomb-form-native/issues"
   },
   "homepage": "https://github.com/gcanti/tcomb-form-native",
-  "dependencies": {
-    "tcomb-validation": "^3.0.0",
+  "peerDependencies": {
     "@react-native-community/picker": "^1.8.1",
     "@react-native-community/datetimepicker": "^3.0.8"
+  },  
+  "dependencies": {
+    "tcomb-validation": "^3.0.0"
   },
   "devDependencies": {
     "babel": "5.8.34",
